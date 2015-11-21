@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#3FBA91</color>
+    <color name="titlestrip_background_color">#DEDEDE</color>
+    <color name="titlestrip_text_color">#999999</color>
+    <color name="tweet_author_text_color">#999999</color>
+    <color name="tweet_message_text_color">#333333</color>
+    <color name="tweet_off_main_thread">#66CD00</color>
+    <color name="tweet_on_main_thread">#FF0000</color>
+    <declare-styleable name="ImageElement"><attr name="android:src"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="TextElement"><attr name="android:textSize"/><attr name="android:textColor"/><attr name="android:ellipsize"/><attr name="android:maxLines"/></declare-styleable>
+    <declare-styleable name="UIElement"><attr name="android:id"/><attr name="android:padding"/><attr name="android:paddingLeft"/><attr name="android:paddingTop"/><attr name="android:paddingRight"/><attr name="android:paddingBottom"/><attr name="android:visibility"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="titlestrip_height">32dp</dimen>
+    <dimen name="titlestrip_text_size">16sp</dimen>
+    <dimen name="tweet_author_text_size">16sp</dimen>
+    <dimen name="tweet_content_margin">10dp</dimen>
+    <dimen name="tweet_icon_image_size">20dp</dimen>
+    <dimen name="tweet_icon_margin">40dp</dimen>
+    <dimen name="tweet_message_text_size">16sp</dimen>
+    <dimen name="tweet_padding">10dp</dimen>
+    <dimen name="tweet_post_image_height">130dp</dimen>
+    <dimen name="tweet_profile_image_size">60dp</dimen>
+    <drawable name="tweet_placeholder_image">#dddddd</drawable>
+    <string name="app_name">UILayout</string>
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar_color</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+</resources>

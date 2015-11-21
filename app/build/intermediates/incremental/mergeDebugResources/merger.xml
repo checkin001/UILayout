@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/work/github/UILayout/app/src/main/res"/><source path="/work/github/UILayout/app/build/generated/res/rs/debug"/><source path="/work/github/UILayout/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/work/github/UILayout/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/work/github/UILayout/app/src/main/res"><file name="ic_launcher" path="/work/github/UILayout/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="webp" path="/work/github/UILayout/app/src/main/res/drawable-hdpi/webp.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/work/github/UILayout/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="tweet_favourite" path="/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_favourite.png" qualifiers="mdpi-v4" type="drawable"/><file name="tweet_reply" path="/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_reply.png" qualifiers="mdpi-v4" type="drawable"/><file name="tweet_retweet" path="/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_retweet.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/work/github/UILayout/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/work/github/UILayout/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="/work/github/UILayout/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file path="/work/github/UILayout/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="UIElement">
+
+        <attr name="android:id"/>
+
+        <attr name="android:padding"/>
+        <attr name="android:paddingLeft"/>
+        <attr name="android:paddingTop"/>
+        <attr name="android:paddingRight"/>
+        <attr name="android:paddingBottom"/>
+
+        <attr name="android:visibility"/>
+
+    </declare-styleable><declare-styleable name="ImageElement">
+
+        <attr name="android:src"/>
+        <attr name="android:scaleType"/>
+
+    </declare-styleable><declare-styleable name="TextElement">
+
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr name="android:ellipsize"/>
+        <attr name="android:maxLines"/>
+
+    </declare-styleable></file><file path="/work/github/UILayout/app/src/main/res/values/colors.xml" qualifiers=""><drawable name="tweet_placeholder_image">#dddddd</drawable><color name="tweet_author_text_color">#999999</color><color name="tweet_on_main_thread">#FF0000</color><color name="titlestrip_text_color">#999999</color><color name="actionbar_color">#3FBA91</color><color name="titlestrip_background_color">#DEDEDE</color><color name="tweet_off_main_thread">#66CD00</color><color name="tweet_message_text_color">#333333</color></file><file path="/work/github/UILayout/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="tweet_content_margin">10dp</dimen><dimen name="titlestrip_text_size">16sp</dimen><dimen name="tweet_post_image_height">130dp</dimen><dimen name="titlestrip_height">32dp</dimen><dimen name="tweet_icon_image_size">20dp</dimen><dimen name="tweet_message_text_size">16sp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="tweet_icon_margin">40dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="tweet_profile_image_size">60dp</dimen><dimen name="tweet_author_text_size">16sp</dimen><dimen name="tweet_padding">10dp</dimen></file><file path="/work/github/UILayout/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">UILayout</string></file><file path="/work/github/UILayout/app/src/main/res/values/themes.xml" qualifiers=""><style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar_color</item>
+    </style><style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style></file></source><source path="/work/github/UILayout/app/build/generated/res/rs/debug"/><source path="/work/github/UILayout/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/work/github/UILayout/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="UIElement"><attr name="android:id"/><attr name="android:padding"/><attr name="android:paddingLeft"/><attr name="android:paddingTop"/><attr name="android:paddingRight"/><attr name="android:paddingBottom"/><attr name="android:visibility"/></declare-styleable><declare-styleable name="TextElement"><attr name="android:textSize"/><attr name="android:textColor"/><attr name="android:ellipsize"/><attr name="android:maxLines"/></declare-styleable><declare-styleable name="ImageElement"><attr name="android:src"/><attr name="android:scaleType"/></declare-styleable></configuration></mergedItems></merger>

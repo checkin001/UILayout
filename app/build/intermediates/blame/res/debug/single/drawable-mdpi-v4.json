@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tweet_favourite.png",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_favourite.png"
+    },
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tweet_retweet.png",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_retweet.png"
+    },
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/tweet_reply.png",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-mdpi/tweet_reply.png"
+    }
+]

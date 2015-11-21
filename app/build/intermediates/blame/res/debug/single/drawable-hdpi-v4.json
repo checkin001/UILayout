@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/webp.jpg",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-hdpi/webp.jpg"
+    },
+    {
+        "merged": "/work/github/UILayout/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/work/github/UILayout/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
